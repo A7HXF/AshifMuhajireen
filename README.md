@@ -11,7 +11,6 @@ Here on my GitHub, you'll find a showcase of my projects, highlighting my skills
 My journey in computer science has ignited a strong passion for cybersecurity, and I am eager to embark on a professional career in this field. I am committed to leveraging my academic background, technical expertise, and problem-solving skills to contribute to safeguarding digital environments and tackling emerging security challenges.
 
 ## Projects
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Projects                                         | Description of Project         |
 |--------------------------------------------------|----------------------------|
