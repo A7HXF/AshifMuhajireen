@@ -10,13 +10,13 @@ Here on my GitHub, you'll find a showcase of my projects, highlighting my skills
 
 My journey in computer science has ignited a strong passion for cybersecurity, and I am eager to embark on a professional career in this field. I am committed to leveraging my academic background, technical expertise, and problem-solving skills to contribute to safeguarding digital environments and tackling emerging security challenges.
 
-## Skills
+## Projects
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Projects                                         | Description of Project         |
+|--------------------------------------------------|----------------------------|
+| <a href="https://github.com/A7HXF/Malware-Analysis">Malware Analysis</a>  |This project focuses on the in-depth analysis of malware samples to identify their behaviour and impact on systems. By utilising various reverse engineering and network monitoring tools, including IDA Pro, Wireshark, and Process Explorer, the project investigates how the malware operates, interacts with the operating system, and communicates over the network. |
+| Network Traffic Monitoring and Attack Detection  | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -92,7 +92,3 @@ My journey in computer science has ignited a strong passion for cybersecurity, a
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
