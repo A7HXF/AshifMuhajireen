@@ -24,26 +24,21 @@ My journey in computer science has ignited a strong passion for cybersecurity, a
 
 
 ## Tools
+### Reverse Engineering
+<div> <img src="https://img.shields.io/badge/-IDA_Pro-1E2A47?&style=for-the-badge&logo=IDA&logoColor=white" /> <img src="https://img.shields.io/badge/-Cutter-4B9A2A?&style=for-the-badge&logo=Cutter&logoColor=white" /> </div>
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### Network Analysis
+<div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### System Monitoring
+<div> <img src="https://img.shields.io/badge/-Process_Explorer-86B3E1?&style=for-the-badge&logo=ProcessExplorer&logoColor=white" /> <img src="https://img.shields.io/badge/-Process_Monitor-7C7C7C?&style=for-the-badge&logo=ProcessMonitor&logoColor=white" /> <img src="https://img.shields.io/badge/-AutoRuns-FF5C3A?&style=for-the-badge&logo=AutoRuns&logoColor=white" /> </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### Malware Analysis
+<div> <img src="https://img.shields.io/badge/-VirusTotal-EC4C44?&style=for-the-badge&logo=VirusTotal&logoColor=white" /> </div>
+
+### Virtual Machines & Sandbox
+<div> <img src="https://img.shields.io/badge/-VirtualBox-2C72B5?&style=for-the-badge&logo=VirtualBox&logoColor=white" /> <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />  <img src="https://img.shields.io/badge/-REMnux-4C9F70?&style=for-the-badge&logo=REMnux&logoColor=white" /> </div>
 
 ## Certifications
 <div>
