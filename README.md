@@ -15,11 +15,8 @@ My journey in computer science has ignited a strong passion for cybersecurity, a
 | Projects                                         | Description of Project         |
 |--------------------------------------------------|----------------------------|
 | <a href="https://github.com/A7HXF/Malware-Analysis">Malware Analysis</a>  |This project focuses on the in-depth analysis of malware samples to identify their behaviour and impact on systems. By utilising various reverse engineering and network monitoring tools, including IDA Pro, Wireshark, and Process Explorer, the project investigates how the malware operates, interacts with the operating system, and communicates over the network. |
-| Network Traffic Monitoring and Attack Detection  | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| <a href="https://github.com/A7HXF/Active-Directory">Active Directory</a>   |This project focuses on setting up an Active Directory home lab to explore how domain environments work and to simulate real-world security scenarios. Using tools like Splunk, Kali Linux, and Atomic Red Team, it dives into how logs are ingested into a SIEM and how to generate and detect attack telemetry. The goal is to provide hands-on experience with setting up and managing Active Directory, simulating attacks, and building defensive strategies—perfect for anyone looking to strengthen their skills in IT and cybersecurity.|
+
 
 
 ## Tools
