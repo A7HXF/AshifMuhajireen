@@ -15,26 +15,30 @@ My journey in computer science has ignited a strong passion for cybersecurity, a
 | Projects                                         | Description of Project         |
 |--------------------------------------------------|----------------------------|
 | <a href="https://github.com/A7HXF/Malware-Analysis">Malware Analysis</a>  |This project focuses on the in-depth analysis of malware samples to identify their behaviour and impact on systems. By utilising various reverse engineering and network monitoring tools, including IDA Pro, Wireshark, and Process Explorer, the project investigates how the malware operates, interacts with the operating system, and communicates over the network. |
-| <a href="https://github.com/A7HXF/Active-Directory">Active Directory</a>   |This project focuses on setting up an Active Directory home lab to explore how domain environments work and to simulate real-world security scenarios. Using tools like Splunk, Kali Linux, and Atomic Red Team, it dives into how logs are ingested into a SIEM and how to generate and detect attack telemetry. The goal is to provide hands-on experience with setting up and managing Active Directory, simulating attacks, and building defensive strategies—perfect for anyone looking to strengthen their skills in IT and cybersecurity.|
+| <a href="https://github.com/A7HXF/Active-Directory">Active Directory</a>   |This project involved setting up and securing an Active Directory environment on a Windows Server machine. The goal was to configure a domain, manage users, and test security mechanisms, including brute force detection and telemetry generation using Splunk and Atomic Red Team. The project was conducted in a virtualised environment using multiple virtual machines for both offensive and defensive testing.|
 
 
 
-## Tools
-### Reverse Engineering
-<div> <img src="https://img.shields.io/badge/-IDA_Pro-1E2A47?&style=for-the-badge&logo=IDA&logoColor=white" /> <img src="https://img.shields.io/badge/-Cutter-4B9A2A?&style=for-the-badge&logo=Cutter&logoColor=white" /> </div>
+## Tools  
 
-### Network Analysis
-<div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> </div>
+### Reverse Engineering  
+<div> <img src="https://img.shields.io/badge/-IDA_Pro-1E2A47?&style=for-the-badge&logo=IDA&logoColor=white" /> <img src="https://img.shields.io/badge/-Cutter-4B9A2A?&style=for-the-badge&logo=Cutter&logoColor=white" /> </div>  
 
-### System Monitoring
-<div> <img src="https://img.shields.io/badge/-Process_Explorer-86B3E1?&style=for-the-badge&logo=ProcessExplorer&logoColor=white" /> <img src="https://img.shields.io/badge/-Process_Monitor-7C7C7C?&style=for-the-badge&logo=ProcessMonitor&logoColor=white" /> <img src="https://img.shields.io/badge/-AutoRuns-FF5C3A?&style=for-the-badge&logo=AutoRuns&logoColor=white" /> </div>
+### Network Analysis  
+<div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> </div>  
 
-### Malware Analysis
-<div> <img src="https://img.shields.io/badge/-VirusTotal-EC4C44?&style=for-the-badge&logo=VirusTotal&logoColor=white" /> </div>
+### System Monitoring & Logging  
+<div> <img src="https://img.shields.io/badge/-Process_Explorer-86B3E1?&style=for-the-badge&logo=ProcessExplorer&logoColor=white" /> <img src="https://img.shields.io/badge/-Process_Monitor-7C7C7C?&style=for-the-badge&logo=ProcessMonitor&logoColor=white" /> <img src="https://img.shields.io/badge/-AutoRuns-FF5C3A?&style=for-the-badge&logo=AutoRuns&logoColor=white" /> <img src="https://img.shields.io/badge/-Sysmon-003366?&style=for-the-badge&logo=Windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk_Universal_Forwarder-1E1E1E?&style=for-the-badge&logo=Splunk&logoColor=white" /> </div>  
 
-### Virtual Machines & Sandbox
-<div> <img src="https://img.shields.io/badge/-VirtualBox-2C72B5?&style=for-the-badge&logo=VirtualBox&logoColor=white" /> <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
-<img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />  <img src="https://img.shields.io/badge/-REMnux-4C9F70?&style=for-the-badge&logo=REMnux&logoColor=white" /> </div>
+### Malware Analysis  
+<div> <img src="https://img.shields.io/badge/-VirusTotal-EC4C44?&style=for-the-badge&logo=VirusTotal&logoColor=white" /> </div>  
+
+### Attack Simulation & Penetration Testing  
+<div> <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" /> <img src="https://img.shields.io/badge/-Crowbar-FF5733?&style=for-the-badge&logo=Linux&logoColor=white" /> <img src="https://img.shields.io/badge/-RockYou.txt-6A1B9A?&style=for-the-badge&logo=HackTheBox&logoColor=white" /> <img src="https://img.shields.io/badge/-Atomic_Red_Team-FFCC00?&style=for-the-badge&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/-MITRE_ATT&CK-0055A4?&style=for-the-badge&logo=MITRE&logoColor=white" /> </div>  
+
+### Virtual Machines & Sandbox  
+<div> <img src="https://img.shields.io/badge/-VirtualBox-2C72B5?&style=for-the-badge&logo=VirtualBox&logoColor=white" /> <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows_10-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows_Server-00ADEF?&style=for-the-badge&logo=Windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" /> <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/-REMnux-4C9F70?&style=for-the-badge&logo=REMnux&logoColor=white" /> </div>  
+
 
 ## Certifications
 <div>
